@@ -58,7 +58,7 @@ while True:
 
     elif choice == '6':
         print(f"Total contacts: {len(contacts)}")
-        
+
     elif choice == '7':
         print("Exiting Contact Book. Goodbye!")
         break
